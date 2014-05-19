@@ -1,0 +1,15 @@
+[submodule "mrbgems/mruby-io"]
+	path = mrbgems/mruby-io
+	url = https://github.com/mattn/mruby-io.git
+[submodule "mrbgems/mruby-onig-regexp"]
+	path = mrbgems/mruby-onig-regexp
+	url = https://github.com/mattn/mruby-onig-regexp.git
+[submodule "mrbgems/mruby-dir"]
+	path = mrbgems/mruby-dir
+	url = https://github.com/iij/mruby-dir.git
+[submodule "mrbgems/mruby-tempfile"]
+	path = mrbgems/mruby-tempfile
+	url = https://github.com/iij/mruby-tempfile.git
+[submodule "mruby"]
+	path = mruby
+	url = http://github.com/mruby/mruby.git

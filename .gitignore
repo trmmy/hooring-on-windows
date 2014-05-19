@@ -1,0 +1,19 @@
+# ignore all in root
+/*
+
+# accept files in root
+!/src
+!/mruby
+!/mrbgems
+!/mrblib
+!/*file
+!/tasks
+!/.git*
+
+# ignore derived file anywhere
+*.exe
+*.d
+*.o
+*.dll
+*~
+\#*\#

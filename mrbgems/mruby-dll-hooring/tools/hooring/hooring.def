@@ -1,0 +1,4 @@
+LIBRARY hooring.dll
+EXPORTS
+	gui
+	mruby
